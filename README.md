@@ -6,7 +6,7 @@
 - 🌱 Estou Estudando ADVPL
 - 👯 Trabalho na Agencia Oasis Digital
 - 💬 Contate-me em: anderson_np2010@hotmail.com
-- 😄 Pronome: Ele/Dele
+- 🌈 Pronome: Ele/Dele
 
 <div align="center">
   <a href="https://github.com/andersonvixx">
