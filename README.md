@@ -12,7 +12,6 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=andersonvixx&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andersonvixx&layout=compact&langs_count=7&theme=dracula"/>
 </div>
-  
   <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/centos/centos-original.svg">
   <img align="center" alt="Rafa-Ts" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg">
@@ -24,9 +23,7 @@
   <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg">
   <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redhat/redhat-original-wordmark.svg">
   <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg">
-
-  
-  <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/953281288012460105/972340391200309318/IMG_7351-removebg-preview.png">
+  <img align="right" alt="Anderson-vixx" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/953281288012460105/972340391200309318/IMG_7351-removebg-preview.png">
 </div>
   
   ##
